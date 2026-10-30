@@ -1860,5 +1860,69 @@
     "url": "https://www.ggplaza.co.kr/news/article.html?no=61483"
    }
   ]
+ },
+ {
+  "date": "2026-10-28",
+  "platform": "보도자료",
+  "field": "정치",
+  "title": "중수청, '소방 재정 빨대' 발언 추 지사 고발사건 경기남부경찰청에 이첩",
+  "summary": "시민단체 서민민생대책위원회가 10월 19일 국감 '재정 빨대' 발언 등을 문제 삼아 직권남용·명예훼손 혐의로 고발한 사건을 서울지방중수청이 경기남부경찰청으로 이첩했다.",
+  "quote": "",
+  "pledge": [],
+  "context": "고발 측은 발언이 소방공무원 명예를 훼손했다고 주장한다. 중수청은 명예훼손·직권남용이 중대범죄에 해당하지 않는다며 이첩했고, 기사에 추 지사 측 반론은 실리지 않았다. 수사 결과는 미정이다.",
+  "controversy": true,
+  "uncertain": false,
+  "sources": [
+   {
+    "name": "아시아경제",
+    "url": "https://view.asiae.co.kr/article/2026102817041951481"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-29",
+  "platform": "오프라인",
+  "field": "경제",
+  "title": "G-FAIR KOREA 2026 개막식 참석(킨텍스)…'중소기업 판로·자금·인력 어려움 공감'",
+  "summary": "국내 최대 중소기업 우수상품전시회 개막식에 참석해 도내 중소기업인들을 만나고 어워즈존을 둘러봤다. 전시회는 31일까지 열린다.",
+  "quote": "새로운 기회가 되기를 진심으로 응원한다",
+  "pledge": [
+   3
+  ],
+  "context": "도정 일상 행사다. 같은 날 오전에는 이태원 참사 4주기 기억식(서울) 일정이 공개됐다.",
+  "controversy": false,
+  "uncertain": false,
+  "sources": [
+   {
+    "name": "경인일보",
+    "url": "https://www.kyeongin.com/article/1773732"
+   },
+   {
+    "name": "뉴스1(일정)",
+    "url": "https://www.news1.kr/local/gyeonggi/6335526"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-29",
+  "platform": "도의회",
+  "field": "도의회",
+  "title": "경기도, 남종섭 의장 제안 '여·야·정 협치위원회' 실무 논의 참여 밝혀…2027 본예산 사전협의 강화",
+  "summary": "홍은광 대변인 브리핑: 도의회와 정례 협의 통로 마련, 2027년 본예산 편성 과정의 도의회 사전 협의 강화, 장애인 등 관련 단체 의견 수렴을 추진한다. 본예산안은 11월 제출·12월 확정 예정.",
+  "quote": "",
+  "pledge": [],
+  "context": "가용재원 급감 속 예산 삭감을 둘러싼 도의회·민주당 내부 비판이 이어진 뒤 나온 협치 제스처다. 위원회 구성 시기·권한은 아직 확인되지 않았다.",
+  "controversy": false,
+  "uncertain": false,
+  "sources": [
+   {
+    "name": "월드장애인사랑뉴스",
+    "url": "https://www.youcandonews.com/news/articleView.html?idxno=21194"
+   },
+   {
+    "name": "일간투데이",
+    "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=799771"
+   }
+  ]
  }
 ]
